@@ -1,0 +1,8 @@
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\bin\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.deps.json
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\bin\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\bin\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.pdb
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\obj\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.csprojAssemblyReference.cache
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\obj\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.AssemblyInfoInputs.cache
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\obj\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.AssemblyInfo.cs
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\obj\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Utilitario\obj\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.pdb

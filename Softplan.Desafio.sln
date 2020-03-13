@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Softplan.Desafio.Api", "Softplan.Desafio.Api", "{BCA4BEAD-75CD-478B-808A-2A3F21509591}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softplan.Desafio.API", "Softplan.Desafio.API\Softplan.Desafio.API.csproj", "{83886540-4776-4FC4-84E2-885AAAB2D8B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Softplan.Desafio.Dominio", "Softplan.Desafio.Dominio", "{AC2E294A-62C7-4C86-A27C-47BE915C5248}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softplan.Desafio.Dominio", "Softplan.Desafio.Dominio\Softplan.Desafio.Dominio.csproj", "{14D36F68-9913-4D83-AEE0-D2EEC31298D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Softplan.Desafio.Servico", "Softplan.Desafio.Servico", "{3D2BCD60-1342-4462-82C6-C9887B05384E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softplan.Desafio.Servico", "Softplan.Desafio.Servico\Softplan.Desafio.Servico.csproj", "{0A67F2EB-0EF7-44D1-A2C9-745D56DE7DE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Softplan.Desafio.Infra", "Softplan.Desafio.Infra", "{62750855-BEAD-45CC-BD8C-2AF407E5C902}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softplan.Desafio.Infra", "Softplan.Desafio.Infra\Softplan.Desafio.Infra.csproj", "{C6C30156-54B8-4361-92AF-01D5D134469F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Softplan.Desafio.Utilitario", "Softplan.Desafio.Utilitario", "{A378974A-9235-416E-96BF-D30947C3E8A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softplan.Desafio.Utilitario", "Softplan.Desafio.Utilitario\Softplan.Desafio.Utilitario.csproj", "{E749088B-79F3-4AD4-9180-21EE804D51E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Softplan.Desafio.Test", "Softplan.Desafio.Test", "{3FBBA76B-F74E-46CF-89D7-918F3826C494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softplan.Desafio.Teste", "Softplan.Desafio.Teste\Softplan.Desafio.Teste.csproj", "{FC26756A-1A2B-42E6-930F-239DA96072F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83886540-4776-4FC4-84E2-885AAAB2D8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83886540-4776-4FC4-84E2-885AAAB2D8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83886540-4776-4FC4-84E2-885AAAB2D8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83886540-4776-4FC4-84E2-885AAAB2D8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D36F68-9913-4D83-AEE0-D2EEC31298D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D36F68-9913-4D83-AEE0-D2EEC31298D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D36F68-9913-4D83-AEE0-D2EEC31298D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D36F68-9913-4D83-AEE0-D2EEC31298D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A67F2EB-0EF7-44D1-A2C9-745D56DE7DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A67F2EB-0EF7-44D1-A2C9-745D56DE7DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A67F2EB-0EF7-44D1-A2C9-745D56DE7DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A67F2EB-0EF7-44D1-A2C9-745D56DE7DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C30156-54B8-4361-92AF-01D5D134469F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C30156-54B8-4361-92AF-01D5D134469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C30156-54B8-4361-92AF-01D5D134469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C30156-54B8-4361-92AF-01D5D134469F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E749088B-79F3-4AD4-9180-21EE804D51E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E749088B-79F3-4AD4-9180-21EE804D51E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E749088B-79F3-4AD4-9180-21EE804D51E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E749088B-79F3-4AD4-9180-21EE804D51E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC26756A-1A2B-42E6-930F-239DA96072F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC26756A-1A2B-42E6-930F-239DA96072F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC26756A-1A2B-42E6-930F-239DA96072F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC26756A-1A2B-42E6-930F-239DA96072F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83886540-4776-4FC4-84E2-885AAAB2D8B6} = {BCA4BEAD-75CD-478B-808A-2A3F21509591}
+		{14D36F68-9913-4D83-AEE0-D2EEC31298D8} = {AC2E294A-62C7-4C86-A27C-47BE915C5248}
+		{0A67F2EB-0EF7-44D1-A2C9-745D56DE7DE8} = {3D2BCD60-1342-4462-82C6-C9887B05384E}
+		{C6C30156-54B8-4361-92AF-01D5D134469F} = {62750855-BEAD-45CC-BD8C-2AF407E5C902}
+		{E749088B-79F3-4AD4-9180-21EE804D51E5} = {A378974A-9235-416E-96BF-D30947C3E8A0}
+		{FC26756A-1A2B-42E6-930F-239DA96072F8} = {3FBBA76B-F74E-46CF-89D7-918F3826C494}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26432BC-7AFF-4846-9AC4-306F37676212}
+	EndGlobalSection
+EndGlobal

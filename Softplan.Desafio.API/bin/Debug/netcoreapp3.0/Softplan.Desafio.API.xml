@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Softplan.Desafio.API</name>
+    </assembly>
+    <members>
+        <member name="M:Softplan.Desafio.API.Controllers.CalcularJurosController.#ctor(Softplan.Desafio.Servico.Interfaces.ICalculoDeJuros)">
+            <summary>
+            Construtor Padrão 
+            </summary>
+            <param name="calculoDeJuros">calculo De Juros</param>
+        </member>
+        <member name="M:Softplan.Desafio.API.Controllers.CalcularJurosController.CalculaJuros(System.Double,System.Int32)">
+            <summary>
+            Calcula o valor de juros compostos
+            </summary>
+            <param name="valorInicial">Valor inicial para o calculo</param>
+            <param name="tempo">Quantidade de meses</param>
+            <returns>Valor atualizado</returns>
+        </member>
+        <member name="M:Softplan.Desafio.API.Controllers.ShowMeTheCodeController.#ctor(Softplan.Desafio.Servico.Interfaces.IShowMeTheCode)">
+            <summary>
+            Construtor Padrão
+            </summary>
+            <param name="showMeTheCode">show Me The Code</param>
+        </member>
+        <member name="M:Softplan.Desafio.API.Controllers.ShowMeTheCodeController.ObterEnderecoDoGithub">
+            <summary>
+            Retorna o endereço onde encontra-se o código fonte do projeto no Github
+            </summary>
+            <returns>endereço do projeto no Github</returns>
+        </member>
+        <member name="T:Softplan.Desafio.API.Controllers.TaxaJurosController">
+            <summary>
+            Controller para taxa de juros
+            </summary>
+        </member>
+        <member name="M:Softplan.Desafio.API.Controllers.TaxaJurosController.#ctor(Softplan.Desafio.Servico.Interfaces.ITaxaDeJuros)">
+            <summary>
+            Construtor Padrão 
+            </summary>
+            <param name="taxaDeJuros">Taxa de Juros</param>
+        </member>
+        <member name="M:Softplan.Desafio.API.Controllers.TaxaJurosController.ObterTaxaDeJuros">
+            <summary>
+            Obtem a taxa de juros
+            </summary>
+            <returns>Valor da taxa de juros</returns>
+        </member>
+    </members>
+</doc>

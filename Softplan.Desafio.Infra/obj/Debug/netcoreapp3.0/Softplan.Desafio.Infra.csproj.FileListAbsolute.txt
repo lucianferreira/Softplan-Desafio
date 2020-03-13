@@ -1,0 +1,8 @@
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\bin\Debug\netcoreapp3.0\Softplan.Desafio.Infra.deps.json
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\bin\Debug\netcoreapp3.0\Softplan.Desafio.Infra.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\bin\Debug\netcoreapp3.0\Softplan.Desafio.Infra.pdb
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\obj\Debug\netcoreapp3.0\Softplan.Desafio.Infra.csprojAssemblyReference.cache
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\obj\Debug\netcoreapp3.0\Softplan.Desafio.Infra.AssemblyInfoInputs.cache
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\obj\Debug\netcoreapp3.0\Softplan.Desafio.Infra.AssemblyInfo.cs
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\obj\Debug\netcoreapp3.0\Softplan.Desafio.Infra.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Infra\obj\Debug\netcoreapp3.0\Softplan.Desafio.Infra.pdb

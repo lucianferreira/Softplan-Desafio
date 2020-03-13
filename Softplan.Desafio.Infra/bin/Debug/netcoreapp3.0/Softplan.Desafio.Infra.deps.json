@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Softplan.Desafio.Infra/1.0.0": {
+        "runtime": {
+          "Softplan.Desafio.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Softplan.Desafio.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

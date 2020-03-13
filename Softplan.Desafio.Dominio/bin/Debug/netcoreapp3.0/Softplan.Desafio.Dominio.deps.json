@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Softplan.Desafio.Dominio/1.0.0": {
+        "dependencies": {
+          "Softplan.Desafio.Infra": "1.0.0"
+        },
+        "runtime": {
+          "Softplan.Desafio.Dominio.dll": {}
+        }
+      },
+      "Softplan.Desafio.Infra/1.0.0": {
+        "runtime": {
+          "Softplan.Desafio.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Softplan.Desafio.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Softplan.Desafio.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

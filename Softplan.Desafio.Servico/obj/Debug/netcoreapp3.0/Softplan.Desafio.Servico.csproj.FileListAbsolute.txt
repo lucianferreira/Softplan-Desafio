@@ -1,0 +1,15 @@
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\obj\Debug\netcoreapp3.0\Softplan.Desafio.Servico.csprojAssemblyReference.cache
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\obj\Debug\netcoreapp3.0\Softplan.Desafio.Servico.AssemblyInfoInputs.cache
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\obj\Debug\netcoreapp3.0\Softplan.Desafio.Servico.AssemblyInfo.cs
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Servico.deps.json
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Servico.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Servico.pdb
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Dominio.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Infra.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Dominio.pdb
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Infra.pdb
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\bin\Debug\netcoreapp3.0\Softplan.Desafio.Utilitario.pdb
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\obj\Debug\netcoreapp3.0\Softplan.Desafio.Servico.csproj.CopyComplete
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\obj\Debug\netcoreapp3.0\Softplan.Desafio.Servico.dll
+C:\Users\Lucian\source\repos\Softplan.Desafio\Softplan.Desafio.Servico\obj\Debug\netcoreapp3.0\Softplan.Desafio.Servico.pdb

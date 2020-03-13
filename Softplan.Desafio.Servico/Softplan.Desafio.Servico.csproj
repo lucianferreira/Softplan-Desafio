@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Softplan.Desafio.Dominio\Softplan.Desafio.Dominio.csproj" />
+    <ProjectReference Include="..\Softplan.Desafio.Infra\Softplan.Desafio.Infra.csproj" />
+    <ProjectReference Include="..\Softplan.Desafio.Utilitario\Softplan.Desafio.Utilitario.csproj" />
+  </ItemGroup>
+
+</Project>
